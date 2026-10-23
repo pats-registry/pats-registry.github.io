@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pets-registry.github.io/sitemap.xml
