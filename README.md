@@ -31,6 +31,7 @@ This website explains how developers discover and publish Pets for Kirn. Pets ar
 - [Kirn documentation](https://rkriad585.github.io/kirn/)
 - [Pets contribution docs](https://pets-registry.github.io/pets)
 - [Kirsh terminal website](https://kirsh-shell.github.io/)
+- [Stirk AI website](https://stirk-ai.github.io/)
 
 ## Local development
 
