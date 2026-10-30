@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="pats-logos/pats-1280x640.png" alt="Pets Registry logo" width="520">
+  <img src="pats-logos/pats-1280x640.png" alt="Pats Registry logo" width="520">
 </p>
 
-<h1 align="center">Pets Registry</h1>
+<h1 align="center">Pats Registry</h1>
 
 <p align="center">The source-backed package registry website for the Kirn ecosystem.</p>
 
@@ -13,12 +13,12 @@
 
 ## Overview
 
-This website explains how developers discover and publish Pets for Kirn. Pets are developed in their own repositories, released through their own workflows, and connected to the registry through maintainer-managed index processes.
+This website explains how developers discover and publish Pats for Kirn. Pats are developed in their own repositories, released through their own workflows, and connected to the registry through maintainer-managed index processes.
 
 ## Website and source
 
-- [Project website](https://pets-registry.github.io/)
-- [Source repository](https://github.com/pets-registry/pets)
+- [Project website](https://pats-registry.github.io/)
+- [Source repository](https://github.com/pats-registry/pats)
 - [Creator: RK Riad Khan](https://rkriad585.github.io/)
 
 ## Kirn ecosystem
@@ -26,10 +26,10 @@ This website explains how developers discover and publish Pets for Kirn. Pets ar
 - [Creator website](https://rkriad585.github.io/)
 - [KirnOS website](https://kirnos-kernel.github.io/)
 - [Kirnly website](https://kirnly.github.io/)
-- [Pets registry website](https://pets-registry.github.io/)
+- [Pats registry website](https://pats-registry.github.io/)
 - [Kirn website](https://kirn-lang.github.io/)
 - [Kirn documentation](https://rkriad585.github.io/kirn/)
-- [Pets contribution docs](https://pets-registry.github.io/pets)
+- [Pats contribution docs](https://pats-registry.github.io/pats)
 - [Kirsh terminal website](https://kirsh-shell.github.io/)
 - [Stirk AI website](https://stirk-ai.github.io/)
 
